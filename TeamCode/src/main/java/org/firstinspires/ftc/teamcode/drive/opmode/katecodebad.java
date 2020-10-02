@@ -12,35 +12,48 @@ import org.firstinspires.ftc.teamcode.drive.SampleMecanumDrive;
 /*
  * This is an example of a mechanical person trying to code.
  */
+
 @Autonomous(group = "drive")
 public class katecodebad extends LinearOpMode {
     @Override
     public void runOpMode() throws InterruptedException {
+
+
         SampleMecanumDrive drive = new SampleMecanumDrive(hardwareMap);
 
         waitForStart();
 
         if (isStopRequested()) return;
 
-        Trajectory traj = drive.trajectoryBuilder(new Pose2d())
-                .splineTo(new Vector2d(30, 30), 0)
+        Pose2d myPose = new Pose2d(60,0,Math.toRadians(0));
+
+        drive.setPoseEstimate(myPose);
+/*
+        Trajectory traj1 = drive.trajectoryBuilder(new Pose2d())
+                .splineTo(new Vector2d(-30, 0), 0)
                 .build();
 
-        drive.followTrajectory(traj);
+        drive.followTrajectory(traj1);
+
+ */
+        drive.followTrajectory(traj(-30, 0, 0));
 
         sleep(200);
 
-        Trajectory traj3 = drive.trajectoryBuilder(new Pose2d())
-                .splineTo(new Vector2d(30, 0), 0)
-                .build();
-
-        drive.followTrajectory(traj3);
-
-        Trajectory traj4 = drive.trajectoryBuilder(new Pose2d())
-                .splineTo(new Vector2d(0, 15), 0)
-                .build();
-
-        drive.followTrajectory(traj4);
-
     }
+
+
+
+
+
+
+    
+    public Trajectory traj(double x, double y, double endTan){
+        SampleMecanumDrive drive = new SampleMecanumDrive(hardwareMap);
+        Trajectory traj = drive.trajectoryBuilder(new Pose2d())
+                .splineTo(new Vector2d(x, y), endTan)
+                .build();
+        return traj;
+    }
+
 }
