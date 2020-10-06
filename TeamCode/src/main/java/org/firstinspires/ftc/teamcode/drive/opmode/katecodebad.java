@@ -36,7 +36,9 @@ public class katecodebad extends LinearOpMode {
         drive.followTrajectory(traj1);
 
  */
-        drive.followTrajectory(traj(-30, 0, 0));
+        drive.followTrajectory(traj(-30, -30, 0));
+        drive.followTrajectory(traj(0, 0, 0));
+        drive.followTrajectory(traj(30, 30, 0));
 
         sleep(200);
 
