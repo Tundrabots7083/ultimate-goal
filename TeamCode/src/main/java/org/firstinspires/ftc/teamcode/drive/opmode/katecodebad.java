@@ -8,7 +8,6 @@ import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
 import org.firstinspires.ftc.teamcode.drive.SampleMecanumDrive;
-
 /*
  * This is an example of a mechanical person trying to code.
  */
@@ -25,7 +24,9 @@ public class katecodebad extends LinearOpMode {
 
         if (isStopRequested()) return;
 
-        Pose2d myPose = new Pose2d(60,0,Math.toRadians(0));
+        // X and Y are reversed.
+
+        Pose2d myPose = new Pose2d(-50,40,Math.toRadians(0));
 
         drive.setPoseEstimate(myPose);
 /*
@@ -36,9 +37,14 @@ public class katecodebad extends LinearOpMode {
         drive.followTrajectory(traj1);
 
  */
-        drive.followTrajectory(traj(-30, -30, 0));
-        drive.followTrajectory(traj(0, 0, 0));
-        drive.followTrajectory(traj(30, 30, 0));
+
+        //drive.followTrajectory(traj(40, -50, 0));
+        //sleep(400);
+        //drive.followTrajectory(traj(0, 0, 0));
+        //drive.followTrajectory(traj(40, 60, 0));
+        //drive.followTrajectory(traj(0, 60, 0));
+        //drive.followTrajectory(traj(0, 0, 0));
+        drive.followTrajectory(traj(50, 40, 0));
 
         sleep(200);
 
