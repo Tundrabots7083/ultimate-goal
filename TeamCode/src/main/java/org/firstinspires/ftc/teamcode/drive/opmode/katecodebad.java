@@ -38,15 +38,18 @@ public class katecodebad extends LinearOpMode {
 
  */
 
-        //drive.followTrajectory(traj(40, -50, 0));
-        //sleep(400);
-        //drive.followTrajectory(traj(0, 0, 0));
-        //drive.followTrajectory(traj(40, 60, 0));
-        //drive.followTrajectory(traj(0, 60, 0));
-        //drive.followTrajectory(traj(0, 0, 0));
+        /*drive.followTrajectory(traj(50, 40, 0));
+        sleep(100);
+        drive.followTrajectory(traj(0, -40, 0));
+        sleep(100);
         drive.followTrajectory(traj(50, 40, 0));
+        sleep(100);*/
 
+        drive.followTrajectory(traj(90, 0, 0));
         sleep(200);
+        drive.followTrajectory(traj(0,40,0));
+        drive.followTrajectory(traj(-90, 0, 0));
+        drive.followTrajectory(traj(0,-40,0));
 
     }
 
