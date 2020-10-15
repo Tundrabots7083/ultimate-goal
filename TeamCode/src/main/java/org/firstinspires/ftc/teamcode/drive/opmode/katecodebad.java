@@ -45,11 +45,11 @@ public class katecodebad extends LinearOpMode {
         drive.followTrajectory(traj(50, 40, 0));
         sleep(100);*/
 
-        drive.followTrajectory(traj(90, 0, 0));
+        drive.followTrajectory(trajSpline(90, 0, 0));
         sleep(200);
-        drive.followTrajectory(traj(0,40,0));
-        drive.followTrajectory(traj(-90, 0, 0));
-        drive.followTrajectory(traj(0,-40,0));
+        drive.followTrajectory(trajSpline(0,40,0));
+        drive.followTrajectory(trajSpline(-90, 0, 0));
+        drive.followTrajectory(trajSpline(0,-40,0));
 
     }
 
@@ -59,7 +59,7 @@ public class katecodebad extends LinearOpMode {
 
 
     
-    public Trajectory traj(double x, double y, double endTan){
+    public Trajectory trajSpline(double x, double y, double endTan){
         SampleMecanumDrive drive = new SampleMecanumDrive(hardwareMap);
         Trajectory traj = drive.trajectoryBuilder(new Pose2d())
                 .splineTo(new Vector2d(x, y), endTan)
@@ -67,4 +67,19 @@ public class katecodebad extends LinearOpMode {
         return traj;
     }
 
+
+    public Trajectory trajStrafeLeft(double x){
+        SampleMecanumDrive drive = new SampleMecanumDrive(hardwareMap);
+        Trajectory traj = drive.trajectoryBuilder(new Pose2d())
+                .strafeLeft(x)
+                .build();
+        return traj;
+    }
+    public Trajectory trajStrafeRight(double x) {
+        SampleMecanumDrive drive = new SampleMecanumDrive(hardwareMap);
+        Trajectory traj = drive.trajectoryBuilder(new Pose2d())
+                .strafeRight(x)
+                .build();
+        return traj;
+    }
 }

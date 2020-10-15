@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: :tfod-release:@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18dda54f3200d929a99ffce20642d347/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18dda54f3200d929a99ffce20642d347/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18dda54f3200d929a99ffce20642d347/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ed295b3ea8858aae156e232bd031bb92/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ed295b3ea8858aae156e232bd031bb92/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ed295b3ea8858aae156e232bd031bb92/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

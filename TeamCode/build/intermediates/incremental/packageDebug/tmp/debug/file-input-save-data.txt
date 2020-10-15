@@ -1,23 +1,37 @@
 #Internal package file, do not edit.
+<<<<<<< Updated upstream
 #Thu Oct 15 18:59:01 EDT 2020
 20.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 143.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 237.path=blockly/media/click.ogg
 408.path=blocks/compass_sensor.js
+=======
+#Mon Oct 12 20:06:06 EDT 2020
+20.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+143.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+237.path=fonts/SourceCodePro.woff2
+408.path=blocks/samples/BasicPOVDrive.blk
+>>>>>>> Stashed changes
 439.set=ASSET
-53.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+53.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 66.set=ASSET
 317.set=ASSET
+<<<<<<< Updated upstream
 356.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 86.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+356.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+86.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 208.baseType=DIRECTORY
-389.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-8.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+389.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+8.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 214.baseType=DIRECTORY
 242.baseType=DIRECTORY
 118.set=ASSET
 270.baseType=DIRECTORY
 0.set=ASSET
+<<<<<<< Updated upstream
 331.path=java/js/polyfills.js
 191.set=ASSET
 61.path=blockly/media/delete.ogg
@@ -29,18 +43,36 @@
 69.baseType=DIRECTORY
 397.path=blocks/samples/SensorIMU.blk
 43.set=ASSET
+=======
+331.path=java/js/theme-chrome.js
+191.set=ASSET
+61.path=java/templates/ConceptVuforiaNavigation
+193.path=toolbox/bno055imu_parameters.xml
+364.path=lib/armeabi-v7a/libRobotCore.so
+270.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+100.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+416.set=ASSET
+69.baseType=DIRECTORY
+397.path=java/js/antlr4/atn/ATNSimulator.js
+43.set=NATIVE_RESOURCE
+>>>>>>> Stashed changes
 7.baseType=DIRECTORY
 47.baseType=DIRECTORY
-133.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+133.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 75.baseType=DIRECTORY
+<<<<<<< Updated upstream
 304.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+304.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 117.baseType=DIRECTORY
 145.baseType=DIRECTORY
-43.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-166.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+43.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+166.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 217.set=ASSET
 123.baseType=DIRECTORY
 151.baseType=DIRECTORY
+<<<<<<< Updated upstream
 76.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 141.path=FtcOfflineBlocks.html
 97.set=ASSET
@@ -56,35 +88,75 @@
 293.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 6.path=java/templates/SensorDigitalTouch
 123.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+76.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+141.path=blocks/ultrasonic_sensor.js
+97.set=ASSET
+348.set=ASSET
+51.path=blocks/images/ftcLightSensor.png
+20.set=ASSET
+354.path=java/js/antlr4/index.js
+260.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+431.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+84.path=blocks/dc_motor.js
+210.baseType=DIRECTORY
+387.path=dash/static/js/main.ba070fec.chunk.js.map
+293.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+6.path=java/templates/SensorBNO055IMUCalibration
+123.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 149.set=ASSET
-156.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-327.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+156.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+327.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 15.baseType=DIRECTORY
+<<<<<<< Updated upstream
 66.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 189.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
+=======
+66.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+189.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 447.set=ASSET
 43.baseType=DIRECTORY
 74.set=ASSET
 325.set=ASSET
+<<<<<<< Updated upstream
 99.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 131.path=blocks/images/ftcPwmOutput.png
 302.path=ftcblockly/generators/ftcjava/text.js
 41.path=java/js/ext-language_tools.js
 164.path=java/js/antlr4/polyfills/fromcodepoint.js
+=======
+99.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+131.path=blocks/images/ftcTouchSensorMultiplexer.png
+302.path=java/js/antlr4/tree/index.js
+41.path=blockly/media/click.mp3
+164.path=java/js/mode-markdown.js
+>>>>>>> Stashed changes
 248.set=ASSET
-250.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-421.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+250.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+421.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 126.set=ASSET
+<<<<<<< Updated upstream
 74.path=blocks/samples/ConceptTextToSpeech.blk
 283.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 454.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 398.baseType=DIRECTORY
 14.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 424.set=ASSET
+=======
+74.path=java/templates/SensorDIO
+283.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+454.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+398.baseType=DIRECTORY
+14.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+424.set=NATIVE_RESOURCE
+>>>>>>> Stashed changes
 379.set=ASSET
-317.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+317.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 51.set=ASSET
 302.set=ASSET
+<<<<<<< Updated upstream
 179.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 291.path=java/js/ui-ace.js
 225.set=ASSET
@@ -105,56 +177,108 @@
 279.set=NATIVE_RESOURCE
 202.set=ASSET
 37.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+179.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+291.path=js/websocket-iframe.js
+225.set=ASSET
+121.path=java/templates/ConceptTelemetry
+103.set=ASSET
+154.path=java/js/flowtype.js
+429.baseType=DIRECTORY
+325.path=fonts/fontawesome-webfont.eot
+457.baseType=DIRECTORY
+411.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+64.path=blocks/gyro_sensor.js
+187.path=blocks/samples/SensorDigitalTouch.blk
+401.set=ASSET
+273.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+444.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+356.set=ASSET
+97.path=blockly/blockly_compressed.js
+279.set=ASSET
+202.set=ASSET
+37.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 157.set=ASSET
 338.baseType=DIRECTORY
 366.baseType=DIRECTORY
 394.baseType=DIRECTORY
+<<<<<<< Updated upstream
 281.path=dash/static/media/gamepad.f369910d.svg
 452.path=java/js/antlr4/ParserRuleContext.js
 372.baseType=DIRECTORY
 455.set=ASSET
 12.path=blocks/velocity.js
 315.path=blocks/servo.js
+=======
+281.path=FtcOfflineFrame.html
+452.path=java/templates/HardwarePushbot
+372.baseType=DIRECTORY
+455.set=ASSET
+12.path=CzechWolf
+315.path=java/js/ext-language_tools.js
+>>>>>>> Stashed changes
 82.set=ASSET
-221.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+221.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 333.set=ASSET
+<<<<<<< Updated upstream
 177.path=java/js/antlr4/README.md
 348.path=js/URI.min.js
+=======
+177.path=java/js/keybinding-emacs.js
+348.path=blocks/vuforia_trackable_default_listener.js
+>>>>>>> Stashed changes
 256.set=ASSET
 269.baseType=DIRECTORY
 134.set=ASSET
 247.baseType=DIRECTORY
+<<<<<<< Updated upstream
 117.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+117.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 275.baseType=DIRECTORY
 403.baseType=DIRECTORY
 179.set=ASSET
 431.baseType=DIRECTORY
-27.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+27.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 432.set=ASSET
 387.set=ASSET
+<<<<<<< Updated upstream
 442.path=blocks/tfod_recognition.js
+=======
+442.path=blocks/images/ftcLegacyModule.png
+>>>>>>> Stashed changes
 310.set=ASSET
 178.baseType=DIRECTORY
-211.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+211.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 233.set=ASSET
 306.baseType=DIRECTORY
 334.baseType=DIRECTORY
+<<<<<<< Updated upstream
 35.path=java/templates/SensorREVColorDistance
 184.baseType=DIRECTORY
 111.set=ASSET
 338.path=java/js/flowtype.js
+=======
+35.path=java/js/java/JavaParser.js
+184.baseType=DIRECTORY
+111.set=ASSET
+338.path=blocks/orientation.js
+>>>>>>> Stashed changes
 312.baseType=DIRECTORY
-244.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+244.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 340.baseType=DIRECTORY
-107.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-364.set=ASSET
-17.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+107.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+364.set=NATIVE_RESOURCE
+17.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 209.baseType=DIRECTORY
 287.set=ASSET
 215.baseType=DIRECTORY
 243.baseType=DIRECTORY
 210.set=ASSET
 165.set=ASSET
+<<<<<<< Updated upstream
 115.path=java/js/jquery.contextmenu.js
 371.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 201.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -164,16 +288,28 @@
 8.baseType=DIRECTORY
 48.baseType=DIRECTORY
 58.path=java/js/antlr4/atn/ATNType.js
+=======
+115.path=toolbox/linear_op_mode.xml
+371.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+201.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+25.path=java/js/angular.min.js
+234.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+405.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+8.baseType=DIRECTORY
+48.baseType=DIRECTORY
+58.path=blocks/images/ftcIrSeekerSensor.png
+>>>>>>> Stashed changes
 76.baseType=DIRECTORY
 90.set=ASSET
 341.set=ASSET
-267.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+267.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 118.baseType=DIRECTORY
 124.baseType=DIRECTORY
 152.baseType=DIRECTORY
 180.baseType=DIRECTORY
 264.set=ASSET
 142.set=ASSET
+<<<<<<< Updated upstream
 242.path=toolbox/android_text_to_speech.xml
 187.set=ASSET
 105.path=java/js/antlr4/tree/Trees.js
@@ -192,10 +328,31 @@
 44.baseType=DIRECTORY
 232.path=java/templates/ConceptTelemetry
 403.path=blocks/range.js
+=======
+242.path=blocks/position.js
+187.set=ASSET
+105.path=blocks/project_util.js
+361.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+440.set=ASSET
+395.set=ASSET
+39.set=ASSET
+138.path=java/onbotjava-classes.jar
+394.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+211.baseType=DIRECTORY
+48.path=java/js/antlr4/tree/Trees.js
+241.set=DEX
+257.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+428.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+16.baseType=DIRECTORY
+44.baseType=DIRECTORY
+232.path=java/templates/BlankIterativeOpMode
+403.path=blocks/system.js
+>>>>>>> Stashed changes
 50.baseType=DIRECTORY
 372.set=ASSET
 120.baseType=DIRECTORY
 16.set=ASSET
+<<<<<<< Updated upstream
 265.path=blocks/orientation.js
 298.path=blockly/media/disconnect.wav
 295.set=ASSET
@@ -232,27 +389,76 @@
 278.path=css/bootstrap-theme.min.css.map
 449.path=FTC_2016-17.xml
 380.set=ASSET
+=======
+265.path=FtcOfflineBlocksProjects.html
+298.path=java/templates/PushbotAutoDriveByTime_Linear
+295.set=ASSET
+81.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+128.path=lib/arm64-v8a/libobject_tracking.so
+384.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+3.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+399.baseType=DIRECTORY
+418.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+392.path=java/js/ftclangtools.js
+272.set=ASSET
+255.path=java/templates/SampleRevBlinkinLedDriver
+161.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+426.path=Buildings.jpeg
+150.set=ASSET
+458.baseType=DIRECTORY
+4.set=ASSET
+288.path=blocks/tfod_rover_ruckus.js
+71.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+195.set=NATIVE_RESOURCE
+436.baseType=DIRECTORY
+47.set=NATIVE_RESOURCE
+382.path=dash/static/js/runtime~main.4e412c0e.js
+339.baseType=DIRECTORY
+367.baseType=DIRECTORY
+1.path=blocks/mr_i2c_range_sensor.js
+395.baseType=DIRECTORY
+373.baseType=DIRECTORY
+172.set=ASSET
+151.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+416.path=java/templates/PushbotAutoDriveByGyro_Linear
+322.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+184.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+278.path=ftcblockly/generators/ftcjava/text.js
+449.path=lib/arm64-v8a/libtensorflowlite_jni.so
+380.set=NATIVE_RESOURCE
+>>>>>>> Stashed changes
 24.set=ASSET
-94.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-218.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+94.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+218.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 248.baseType=DIRECTORY
 276.baseType=DIRECTORY
 404.baseType=DIRECTORY
 432.baseType=DIRECTORY
+<<<<<<< Updated upstream
 226.path=lib/arm64-v8a/libobject_tracking.so
+=======
+226.path=blocks/samples/SensorIMU.blk
+>>>>>>> Stashed changes
 78.set=ASSET
 329.set=ASSET
-312.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+312.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 179.baseType=DIRECTORY
 307.baseType=DIRECTORY
+<<<<<<< Updated upstream
 174.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 439.path=blocks/samples/SensorREVColorDistance.blk
 345.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+174.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+439.path=toolbox/android_text_to_speech.xml
+345.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 335.baseType=DIRECTORY
 280.set=ASSET
 185.baseType=DIRECTORY
 313.baseType=DIRECTORY
 341.baseType=DIRECTORY
+<<<<<<< Updated upstream
 378.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 208.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 320.path=java/templates/ConceptSoundsSKYSTONE
@@ -270,22 +476,46 @@
 229.set=ASSET
 32.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 249.path=blocks/elapsed_time2.js
+=======
+378.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+208.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+320.path=java/templates/ConceptVuforiaSkyStoneNavigationWebcam
+428.set=ASSET
+182.path=java/js/antlr4/tree/Tree.js
+353.path=blocks/bno055imu_parameters.js
+55.set=ASSET
+306.set=ASSET
+92.path=css/manage.less
+216.baseType=DIRECTORY
+244.baseType=DIRECTORY
+216.path=blockly/javascript_compressed.js
+400.baseType=DIRECTORY
+250.baseType=DIRECTORY
+229.set=ASSET
+32.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+249.path=java/js/antlr4/Recognizer.js
+>>>>>>> Stashed changes
 107.set=ASSET
-335.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+335.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 180.set=ASSET
 9.baseType=DIRECTORY
-197.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
+197.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 49.baseType=DIRECTORY
-368.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+368.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 77.baseType=DIRECTORY
 119.baseType=DIRECTORY
 405.set=ASSET
 83.baseType=DIRECTORY
+<<<<<<< Updated upstream
 310.path=dash/static/media/add.74fc797d.svg
+=======
+310.path=blocks/android_accelerometer.js
+>>>>>>> Stashed changes
 125.baseType=DIRECTORY
 32.set=ASSET
 153.baseType=DIRECTORY
 181.baseType=DIRECTORY
+<<<<<<< Updated upstream
 172.path=java/js/theme-solarized-dark.js
 343.path=blocks/color.js
 206.set=ASSET
@@ -310,9 +540,36 @@
 195.path=blocks/led.js
 366.path=fonts/SourceCodePro.woff2
 272.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+172.path=blocks/FtcBlocks_common.js
+343.path=java/css/main.less
+206.set=ASSET
+376.path=toolbox/rev_blinkin_led_driver.xml
+112.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+206.path=dash/precache-manifest.02d242948ee1214a4dca9d4819224174.js
+145.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+239.path=java/js/antlr4/error/ErrorStrategy.js
+22.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+55.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+86.set=ASSET
+337.set=ASSET
+358.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+88.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+30.path=blocks/vuforia_trackables.js
+138.set=ASSET
+17.baseType=DIRECTORY
+333.path=dash/static/js/runtime~main.4e412c0e.js.map
+45.baseType=DIRECTORY
+23.baseType=DIRECTORY
+51.baseType=DIRECTORY
+195.path=lib/armeabi-v7a/libVuforia.so
+366.path=blocks/samples/readme.md
+272.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 121.baseType=DIRECTORY
-102.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+102.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 436.set=ASSET
+<<<<<<< Updated upstream
 399.path=java/templates/PushbotTeleopPOV_Linear
 63.set=ASSET
 314.set=ASSET
@@ -327,9 +584,26 @@
 110.path=connection.html
 143.path=toolbox/vuforiaSkyStone_initialize_withCameraDirection.xml
 20.path=blocks/samples/readme.md
+=======
+399.path=blocks/vuforia_trackable.js
+63.set=ASSET
+314.set=ASSET
+229.path=css/base.css
+135.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+306.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+45.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+168.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+237.set=ASSET
+115.set=ASSET
+78.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+110.path=blocks/tfod.js
+143.path=java/js/ext-spellcheck.js
+20.path=blockly/blocks_compressed.js
+>>>>>>> Stashed changes
 413.set=ASSET
-400.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+400.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 368.set=ASSET
+<<<<<<< Updated upstream
 53.path=blocks/open_gl_matrix.js
 40.set=ASSET
 356.path=lib/x86_64/libtensorflowlite_jni.so
@@ -364,18 +638,60 @@
 285.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 456.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 16.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+53.path=java/js/angular-messages.min.js
+40.set=ASSET
+356.path=toolbox/gamepad.xml
+262.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+433.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+86.path=toolbox/vuforiaSkyStone_initialize_withWebcam.xml
+389.path=dash/static/media/roboto-v18-latin-regular.372d0cc3.ttf
+295.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+214.set=ASSET
+8.path=java/templates/SensorBNO055IMU
+125.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+169.set=ASSET
+437.baseType=DIRECTORY
+158.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+329.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+270.path=blockly/msg/messages.js
+68.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+100.path=java/js/antlr4/FileStream.js
+94.set=ASSET
+345.set=ASSET
+133.path=blocks/samples/BasicTankDrive.blk
+304.path=dash/static/media/close.09e70abb.svg
+368.baseType=DIRECTORY
+166.path=java/js/antlr4/Lexer.js
+268.set=ASSET
+43.path=lib/x86/libtensorflowlite_jni.so
+252.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+423.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+374.baseType=DIRECTORY
+146.set=ASSET
+76.path=blocks/linear_op_mode.js
+285.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+456.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+16.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 444.set=ASSET
-148.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+148.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 399.set=ASSET
-319.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+319.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 71.set=ASSET
 322.set=ASSET
+<<<<<<< Updated upstream
 260.path=blocks/ultrasonic_sensor.js
 431.path=blocks/voltage_sensor.js
+=======
+260.path=blockly/media/disconnect.ogg
+431.path=java/js/java/JavaListener.js
+>>>>>>> Stashed changes
 249.baseType=DIRECTORY
 277.baseType=DIRECTORY
 405.baseType=DIRECTORY
 433.baseType=DIRECTORY
+<<<<<<< Updated upstream
 293.path=fonts/fontawesome-webfont.woff2
 245.set=ASSET
 283.baseType=DIRECTORY
@@ -386,19 +702,36 @@
 413.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 66.path=java/editor.html
 189.path=lib/arm64-v8a/libc++_shared.so
+=======
+293.path=blocks/magnetic_flux.js
+245.set=ASSET
+283.baseType=DIRECTORY
+123.path=blocks/acceleration_sensor.js
+123.set=ASSET
+156.path=blocks/images/ghost.png
+327.path=java/js/antlr4/dfa/index.js
+413.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+66.path=java/templates/SensorKLNavxMicro
+189.path=dash/static/media/roboto-v18-latin-regular.5d4aeb4e.woff2
+>>>>>>> Stashed changes
 421.set=ASSET
-275.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-446.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+275.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+446.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 376.set=ASSET
 308.baseType=DIRECTORY
+<<<<<<< Updated upstream
 99.path=blocks/images/ftcAnalogInput.png
+=======
+99.path=java/templates/SensorMRColor
+>>>>>>> Stashed changes
 158.baseType=DIRECTORY
 186.baseType=DIRECTORY
 314.baseType=DIRECTORY
 342.baseType=DIRECTORY
 370.baseType=DIRECTORY
-309.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+309.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 299.set=ASSET
+<<<<<<< Updated upstream
 222.set=ASSET
 39.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 250.path=java/js/mode-java.js
@@ -409,46 +742,85 @@
 14.path=blocks/ir_seeker_sensor.js
 317.path=java/templates/SensorDIO
 223.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+222.set=NATIVE_RESOURCE
+39.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+250.path=FtcOfflineBlocks.html
+421.path=blockly/media/delete.mp3
+100.set=ASSET
+283.path=java/js/antlr4/atn/ATNConfig.js
+454.path=java/templates/ConceptScanServo
+14.path=java/js/mode-json.js
+317.path=java/js/app.js
+223.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 217.baseType=DIRECTORY
 353.set=ASSET
 245.baseType=DIRECTORY
 223.baseType=DIRECTORY
+<<<<<<< Updated upstream
 179.path=blocks/vuforia_sky_stone.js
+=======
+179.path=java/templates/SensorMRRangeSensor
+>>>>>>> Stashed changes
 251.baseType=DIRECTORY
-436.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+436.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 276.set=ASSET
 154.set=ASSET
-119.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+119.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 8.set=ASSET
 199.set=ASSET
 78.baseType=DIRECTORY
+<<<<<<< Updated upstream
 29.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 411.path=dash/static/media/save.860e11ac.svg
+=======
+29.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+411.path=blocks/images/ftcServo.png
+>>>>>>> Stashed changes
 84.baseType=DIRECTORY
 452.set=ASSET
 126.baseType=DIRECTORY
 154.baseType=DIRECTORY
+<<<<<<< Updated upstream
 273.path=java/templates/ConceptVuMarkIdentification
 444.path=java/js/antlr4/Token.js
 350.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+273.path=blocks/images.css
+444.path=java/js/bootstrap-tree.js
+350.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 330.set=ASSET
 310.baseType=DIRECTORY
 160.baseType=DIRECTORY
-213.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+213.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 253.set=ASSET
+<<<<<<< Updated upstream
 37.path=java/css/angular-resizable.css
+=======
+37.path=java/js/java/index.js
+>>>>>>> Stashed changes
 131.set=ASSET
-246.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+246.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 176.set=ASSET
+<<<<<<< Updated upstream
 109.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 384.set=ASSET
 221.path=help.html
 19.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+109.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+384.set=ASSET
+221.path=blocks/vars.js
+19.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 28.set=ASSET
-340.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+340.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 230.set=ASSET
 18.baseType=DIRECTORY
 46.baseType=DIRECTORY
+<<<<<<< Updated upstream
 117.path=java/templates/PushbotAutoDriveToLine_Linear
 373.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 24.baseType=DIRECTORY
@@ -456,11 +828,21 @@
 80.baseType=DIRECTORY
 203.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 27.path=Skystone.xml
+=======
+117.path=java/templates/SensorMRCompass
+373.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+24.baseType=DIRECTORY
+52.baseType=DIRECTORY
+80.baseType=DIRECTORY
+203.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+27.path=java/templates/BlankLinearOpMode
+>>>>>>> Stashed changes
 122.baseType=DIRECTORY
 100.baseType=DIRECTORY
-236.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-407.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+236.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+407.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 361.set=ASSET
+<<<<<<< Updated upstream
 269.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 211.path=js/bootstrap.min.js
 284.set=ASSET
@@ -472,10 +854,24 @@
 107.path=java/js/toe.min.js
 363.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 17.path=java/templates/ConceptTensorFlowObjectDetectionWebcam
+=======
+269.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+211.path=css/help.less
+284.set=DEX
+162.set=ASSET
+244.path=blocks/quaternion.js
+330.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+60.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+192.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+107.path=dash/static/media/roboto-v18-latin-regular.bafb105b.woff
+363.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+17.path=toolbox/android_orientation.xml
+>>>>>>> Stashed changes
 59.set=ASSET
-396.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+396.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 261.set=ASSET
 438.baseType=DIRECTORY
+<<<<<<< Updated upstream
 259.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 20.baseType=DIRECTORY
 371.path=java/templates/ConceptVuforiaSkyStoneNavigationWebcam
@@ -489,18 +885,41 @@
 36.set=ASSET
 267.path=java/readme.md
 50.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+259.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+20.baseType=DIRECTORY
+371.path=blocks/toolbox_util.js
+201.path=dash/static/media/save.860e11ac.svg
+184.set=ASSET
+140.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+234.path=js/jquery-3.1.1.min.js
+405.path=FtcBlocks.html
+409.set=ASSET
+392.set=ASSET
+36.set=ASSET
+267.path=java/js/theme-chaos.js
+50.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 369.baseType=DIRECTORY
-83.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+83.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 375.baseType=DIRECTORY
+<<<<<<< Updated upstream
 386.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 5.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 361.path=java/js/angular.min.js
 394.path=java/js/antlr4/Utils.js
+=======
+386.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+5.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+361.path=RobotConfig.xsd
+394.path=java/templates/SensorColor
+>>>>>>> Stashed changes
 13.set=ASSET
 278.baseType=DIRECTORY
 406.baseType=DIRECTORY
-130.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+130.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 434.baseType=DIRECTORY
+<<<<<<< Updated upstream
 301.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 284.baseType=DIRECTORY
 292.set=ASSET
@@ -510,6 +929,17 @@
 163.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 428.path=css/bootstrap.css.map
 73.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+301.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+284.baseType=DIRECTORY
+292.set=ASSET
+440.baseType=DIRECTORY
+257.path=java/js/worker-json.js
+40.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+163.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+428.path=blocks/samples/ConceptVuforiaNavSkystone.blk
+73.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 309.baseType=DIRECTORY
 159.baseType=DIRECTORY
 187.baseType=DIRECTORY
@@ -518,6 +948,7 @@
 315.baseType=DIRECTORY
 343.baseType=DIRECTORY
 371.baseType=DIRECTORY
+<<<<<<< Updated upstream
 81.path=java/css/perfect-scrollbar.css
 384.path=dash/static/media/wifi.e88e94c6.svg
 290.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -529,32 +960,52 @@
 153.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 418.path=java/js/antlr4/CommonTokenFactory.js
 324.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+81.path=ftcblockly/generators/ftcjava/logic.js
+384.path=blocks/gamepad.js
+290.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+120.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+3.path=java/js/mode-text.js
+119.set=ASSET
+1.set=ASSET
+192.set=ASSET
+153.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+418.path=blockly/media/delete.wav
+324.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 218.baseType=DIRECTORY
 246.baseType=DIRECTORY
-63.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-186.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+63.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+186.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 417.set=ASSET
 224.baseType=DIRECTORY
 252.baseType=DIRECTORY
 44.set=ASSET
 280.baseType=DIRECTORY
-96.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+96.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 218.set=ASSET
+<<<<<<< Updated upstream
 161.path=blocks/vuforia_trackables.js
 79.baseType=DIRECTORY
 71.path=java/js/worker-base.js
+=======
+161.path=java/js/mode-javascript.js
+79.baseType=DIRECTORY
+71.path=blockly/media/quote1.png
+>>>>>>> Stashed changes
 85.baseType=DIRECTORY
-280.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-451.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+280.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+451.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 127.baseType=DIRECTORY
 155.baseType=DIRECTORY
 311.baseType=DIRECTORY
 161.baseType=DIRECTORY
-11.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+11.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 98.set=ASSET
 349.set=ASSET
-314.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+314.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 21.set=ASSET
+<<<<<<< Updated upstream
 176.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 347.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 151.path=java/templates/BlankLinearOpMode
@@ -562,22 +1013,41 @@
 220.baseType=DIRECTORY
 448.set=ASSET
 184.path=java/templates/ConceptScanServo
+=======
+176.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+347.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+151.path=toolbox/vuforiaLocalizerParameters_setCameraDirection.xml
+322.path=dash/static/media/field.1f32ba9a.png
+220.baseType=DIRECTORY
+448.set=ASSET
+184.path=css/bootstrap.min.css
+>>>>>>> Stashed changes
 75.set=ASSET
-441.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+441.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 326.set=ASSET
+<<<<<<< Updated upstream
 94.path=dash/static/js/2.909f7f0f.chunk.js
 218.path=frame.html
+=======
+94.path=blocks/images/ftcServoController.png
+218.path=fonts/glyphicons-halflings-regular.woff
+>>>>>>> Stashed changes
 19.baseType=DIRECTORY
 249.set=ASSET
 25.baseType=DIRECTORY
 53.baseType=DIRECTORY
 81.baseType=DIRECTORY
+<<<<<<< Updated upstream
 34.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+34.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 127.set=ASSET
-337.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+337.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 101.baseType=DIRECTORY
-199.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+199.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 425.set=ASSET
+<<<<<<< Updated upstream
 312.path=blocks/samples/SensorDigitalTouch.blk
 52.set=ASSET
 303.set=ASSET
@@ -591,35 +1061,67 @@
 24.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 402.set=ASSET
 57.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+312.path=java/js/main.js
+52.set=ASSET
+303.set=ASSET
+174.path=StonesAndChips.dat
+345.path=java/js/antlr4/dfa/DFASerializer.js
+226.set=ASSET
+378.path=java/templates/SensorREV2mDistance
+104.set=ASSET
+114.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+208.path=java/js/antlr4/error/index.js
+24.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+402.set=ASSET
+57.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 357.set=ASSET
 439.baseType=DIRECTORY
 21.baseType=DIRECTORY
 203.set=ASSET
 158.set=ASSET
+<<<<<<< Updated upstream
 32.path=blocks/images/ftcTouchSensorMultiplexer.png
 335.path=blocks/vuforia_relic_recovery.js
 241.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 197.path=lib/x86_64/libobject_tracking.so
 368.path=java/templates/ConceptI2cAddressChange
 104.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+32.path=blocks/vector_f.js
+335.path=blocks/range.js
+241.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+197.path=css/SourceCodePro.css
+368.path=java/js/mode-java.js
+104.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 456.set=ASSET
 83.set=ASSET
 334.set=ASSET
-137.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+137.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 348.baseType=DIRECTORY
-308.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+308.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 376.baseType=DIRECTORY
-47.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+47.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 257.set=ASSET
 135.set=ASSET
+<<<<<<< Updated upstream
 112.path=blocks/images/ftcLED.png
 22.path=java/js/antlr4/FileStream.js
 145.path=RoverRuckus.tflite
 231.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+112.path=blocks/samples/default.blk
+22.path=java/templates/SensorAdafruitRGB
+145.path=blocks/light_sensor.js
+231.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 433.set=ASSET
-402.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+402.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 279.baseType=DIRECTORY
 407.baseType=DIRECTORY
+<<<<<<< Updated upstream
 388.set=ASSET
 55.path=lib/x86/libimage_utils.so
 435.baseType=DIRECTORY
@@ -638,29 +1140,65 @@
 272.path=java/templates/SensorMRCompass
 188.baseType=DIRECTORY
 102.path=dash/static/js/main.ba070fec.chunk.js.map
+=======
+388.set=NATIVE_RESOURCE
+55.path=blocks/touch_sensor.js
+435.baseType=DIRECTORY
+60.set=ASSET
+311.set=ASSET
+285.baseType=DIRECTORY
+358.path=java/js/antlr4/RuleContext.js
+264.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+413.baseType=DIRECTORY
+441.baseType=DIRECTORY
+88.path=js/util.js
+297.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+234.set=ASSET
+127.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+112.set=ASSET
+272.path=java/css/tether.min.css
+188.baseType=DIRECTORY
+102.path=java/templates/BasicOpMode_Linear
+>>>>>>> Stashed changes
 316.baseType=DIRECTORY
 410.set=ASSET
 344.baseType=DIRECTORY
 194.baseType=DIRECTORY
 365.set=NATIVE_RESOURCE
 350.baseType=DIRECTORY
+<<<<<<< Updated upstream
 135.path=java/templates/SensorBNO055IMUCalibration
 391.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 306.path=lib/x86_64/libimage_utils.so
 288.set=ASSET
 168.path=java/js/main.js
 45.path=java/templates/SensorMRColor
+=======
+135.path=dash/static/media/wifi_off.d8944708.svg
+391.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+306.path=css/frame_offline.less
+288.set=ASSET
+168.path=blocks/images/ftcRobotController.png
+45.path=blocks/color_sensor.js
+>>>>>>> Stashed changes
 211.set=ASSET
-254.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-425.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+254.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+425.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 166.set=ASSET
+<<<<<<< Updated upstream
 78.path=java/js/ace.js
 287.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 458.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+78.path=toolbox/vuforiaTrackableDefaultListener_setCameraLocationOnRobot.xml
+287.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+458.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 219.baseType=DIRECTORY
 225.baseType=DIRECTORY
 253.baseType=DIRECTORY
 281.baseType=DIRECTORY
+<<<<<<< Updated upstream
 400.path=java/js/app.js
 91.set=ASSET
 342.set=ASSET
@@ -678,16 +1216,40 @@
 156.baseType=DIRECTORY
 158.path=java/js/antlr4/atn/ATNConfigSet.js
 329.path=fonts/SourceCodeProExt.woff2
+=======
+400.path=fonts/glyphicons-halflings-regular.svg
+91.set=ASSET
+342.set=ASSET
+262.path=java/templates/ConceptRampMotorSpeed
+433.path=css/bootstrap.min.css.map
+295.path=css/bootstrap.css.map
+265.set=ASSET
+125.path=blockly/media/sprites.svg
+381.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+143.set=ASSET
+86.baseType=DIRECTORY
+0.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+128.baseType=DIRECTORY
+188.set=ASSET
+156.baseType=DIRECTORY
+158.path=blocks/ir_seeker_sensor.js
+329.path=blocks/images/ftcGyroSensor.png
+>>>>>>> Stashed changes
 134.baseType=DIRECTORY
-415.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+415.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 162.baseType=DIRECTORY
 190.baseType=DIRECTORY
+<<<<<<< Updated upstream
 68.path=css/base.css
+=======
+68.path=dash/static/css/main.35621e47.chunk.css.map
+>>>>>>> Stashed changes
 441.set=ASSET
-277.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-448.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+277.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+448.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 396.set=ASSET
 242.set=ASSET
+<<<<<<< Updated upstream
 252.path=blockly/media/sprites.svg
 423.path=java/templates/ConceptSoundsOnBotJava
 120.set=ASSET
@@ -699,16 +1261,30 @@
 148.path=blocks/matrix_f.js
 319.path=java/js/snippets/java.js
 225.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+252.path=blockly/media/1x1.gif
+423.path=js/npm.js
+120.set=ASSET
+221.baseType=DIRECTORY
+191.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+285.path=blocks/images/ftcAnalogInput.png
+456.path=blocks/vuforia_rover_ruckus.js
+16.path=css/frame.less
+148.path=dash/service-worker.js
+319.path=favicon.ico
+225.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 373.set=ASSET
 17.set=ASSET
 26.baseType=DIRECTORY
 54.baseType=DIRECTORY
-438.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+438.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 296.set=ASSET
 82.baseType=DIRECTORY
 60.baseType=DIRECTORY
 102.baseType=DIRECTORY
 130.baseType=DIRECTORY
+<<<<<<< Updated upstream
 413.path=fonts/fontawesome-webfont.eot
 181.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 275.path=dash/index.html
@@ -720,10 +1296,24 @@
 215.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 273.set=ASSET
 39.path=Buildings.jpeg
+=======
+413.path=java/templates/ConceptSoundsASJava
+181.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+275.path=blocks/tfod_recognition.js
+446.path=blocks/images/ftcElapsedTime.png
+352.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+350.set=ASSET
+91.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+309.path=java/templates/SensorREVColorDistance
+215.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+273.set=ASSET
+39.path=toolbox/vuforiaTrackableDefaultListener_setPhoneInformation.xml
+>>>>>>> Stashed changes
 151.set=ASSET
-248.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+248.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 5.set=ASSET
 196.set=ASSET
+<<<<<<< Updated upstream
 223.path=blocks/vuforia_trackable.js
 22.baseType=DIRECTORY
 48.set=ASSET
@@ -761,11 +1351,51 @@
 281.set=ASSET
 373.path=js/es5-shim.js
 203.path=dash/static/js/runtime~main.4e412c0e.js
+=======
+223.path=ftcblockly/generators/ftcjava.js
+22.baseType=DIRECTORY
+48.set=ASSET
+171.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+436.path=blocks/images/ftc.png
+342.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+250.set=ASSET
+119.path=java/templates/SensorDigitalTouch
+375.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+205.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+173.set=ASSET
+29.path=java/js/theme-github.js
+238.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+409.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+349.baseType=DIRECTORY
+381.set=ASSET
+377.baseType=DIRECTORY
+350.path=java/js/antlr4/atn/PredictionMode.js
+25.set=ASSET
+213.path=blockly/media/sprites.png
+246.path=js/websocket-core.js
+332.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+194.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+109.path=blocks/open_gl_matrix.js
+408.baseType=DIRECTORY
+365.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+286.baseType=DIRECTORY
+414.baseType=DIRECTORY
+442.baseType=DIRECTORY
+19.path=blocks/images/ftcAccelerationSensor.png
+79.set=ASSET
+398.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+228.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+340.path=js/less.min.js
+281.set=ASSET
+373.path=java/js/antlr4/atn/index.js
+203.path=java/js/antlr4/LL1Analyzer.js
+>>>>>>> Stashed changes
 189.baseType=DIRECTORY
 317.baseType=DIRECTORY
 345.baseType=DIRECTORY
-142.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+142.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 195.baseType=DIRECTORY
+<<<<<<< Updated upstream
 236.path=java/js/antlr4/dfa/DFASerializer.js
 407.path=RelicVuMark.dat
 429.set=ASSET
@@ -773,17 +1403,31 @@
 269.path=css/help.less
 52.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 56.set=DEX
+=======
+236.path=RelicVuMark.dat
+407.path=blockly/media/disconnect.mp3
+429.set=ASSET
+351.baseType=DIRECTORY
+269.path=java/js/antlr4/Parser.js
+52.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+56.set=ASSET
+>>>>>>> Stashed changes
 307.set=ASSET
-355.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-85.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-388.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-7.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+355.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+85.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+388.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+7.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 108.set=ASSET
+<<<<<<< Updated upstream
 330.path=java/js/java/JavaParser.js
+=======
+330.path=fonts/glyphicons-halflings-regular.woff2
+>>>>>>> Stashed changes
 181.set=ASSET
 226.baseType=DIRECTORY
 254.baseType=DIRECTORY
 282.baseType=DIRECTORY
+<<<<<<< Updated upstream
 60.path=toolbox/vuforiaLocalizerParameters_getProperty_CameraDirection.xml
 410.baseType=DIRECTORY
 192.path=lib/armeabi-v7a/libVuforia.so
@@ -791,21 +1435,37 @@
 260.baseType=DIRECTORY
 406.set=ASSET
 396.path=java/templates/BasicOpMode_Iterative
+=======
+60.path=blocks/distance_sensor.js
+410.baseType=DIRECTORY
+192.path=dash/static/media/wifi.e88e94c6.svg
+363.path=RobotConfigDescriptionGenerate.xslt
+260.baseType=DIRECTORY
+406.set=ASSET
+396.path=blocks/images/ftcAnalogOutput.png
+>>>>>>> Stashed changes
 33.set=ASSET
-132.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-303.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+132.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+303.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 59.baseType=DIRECTORY
 87.baseType=DIRECTORY
+<<<<<<< Updated upstream
 42.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 165.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 259.path=lib/arm64-v8a/libVuforia.so
+=======
+42.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+165.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+259.path=java/js/antlr4/polyfills/fromcodepoint.js
+>>>>>>> Stashed changes
 207.set=ASSET
 129.baseType=DIRECTORY
 157.baseType=DIRECTORY
 135.baseType=DIRECTORY
-75.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+75.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 163.baseType=DIRECTORY
 191.baseType=DIRECTORY
+<<<<<<< Updated upstream
 140.path=java/js/antlr4/error/ErrorStrategy.js
 87.set=ASSET
 338.set=ASSET
@@ -818,17 +1478,32 @@
 5.path=blocks/vuforia_trackable_default_listener.js
 122.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 139.set=NATIVE_RESOURCE
+=======
+140.path=blocks/images/ftcDcMotorController.png
+87.set=ASSET
+338.set=ASSET
+50.path=blocks/images/ftcI2cDeviceSynch.png
+10.set=ASSET
+430.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+83.path=java/js/antlr4/atn/SemanticContext.js
+386.path=toolbox/android_sound_pool.xml
+292.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+5.path=java/js/theme-solarized-light.js
+122.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+139.set=ASSET
+>>>>>>> Stashed changes
 222.baseType=DIRECTORY
 200.baseType=DIRECTORY
-155.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-326.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-65.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-188.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+155.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+326.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+65.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+188.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 437.set=ASSET
 64.set=ASSET
 315.set=ASSET
 27.baseType=DIRECTORY
 55.baseType=DIRECTORY
+<<<<<<< Updated upstream
 98.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 130.path=blocks/elapsed_time.js
 301.path=lib/armeabi-v7a/libobject_tracking.so
@@ -858,13 +1533,49 @@
 410.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 63.path=blocks/images/ftcElapsedTime.png
 186.path=toolbox/linear_op_mode.xml
+=======
+98.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+130.path=java/templates/ConceptRevSPARKMini
+301.path=blocks/locale.js
+61.baseType=DIRECTORY
+40.path=blockly/LICENSE
+103.baseType=DIRECTORY
+163.path=java/js/ace.js
+238.set=NATIVE_RESOURCE
+131.baseType=DIRECTORY
+420.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+116.set=ASSET
+73.path=java/templates/ConceptMotorBulkRead
+282.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+453.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+13.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+414.set=ASSET
+369.set=ASSET
+316.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+41.set=ASSET
+178.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+349.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+290.path=java/js/antlr4/InputStream.js
+215.set=ASSET
+120.path=java/js/antlr4/dfa/DFAState.js
+153.path=RoverRuckus.dat
+324.path=java/js/antlr4/CharStreams.js
+410.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+63.path=java/js/polyfills.js
+186.path=blocks/vuforia_relic_recovery.js
+>>>>>>> Stashed changes
 95.set=ASSET
-443.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+443.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 346.set=ASSET
+<<<<<<< Updated upstream
 96.path=css/connection.less
+=======
+96.path=blocks/acceleration.js
+>>>>>>> Stashed changes
 269.set=ASSET
-36.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+36.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 147.set=ASSET
+<<<<<<< Updated upstream
 339.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 280.path=ftcblockly/generators/ftcjava/procedures.js
 451.path=toolbox/vuforiaLocalizerParameters_addWebcamCalibrationFile.xml
@@ -873,70 +1584,118 @@
 11.path=java/js/antlr4/atn/ATNDeserializer.js
 384.baseType=DIRECTORY
 314.path=Buildings.txt
+=======
+339.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+280.path=java/js/antlr4/error/Errors.js
+451.path=js/es6-shim.js
+378.baseType=DIRECTORY
+445.set=ASSET
+11.path=blockly/media/quote0.png
+384.baseType=DIRECTORY
+314.path=blocks/android_sound_pool.js
+>>>>>>> Stashed changes
 72.set=ASSET
-220.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+220.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 323.set=ASSET
+<<<<<<< Updated upstream
 176.path=toolbox/vuforia.xml
 347.path=java/js/angular-messages.min.js
+=======
+176.path=java/js/antlr4/antlr4.js
+347.path=java/js/antlr4/package.json
+>>>>>>> Stashed changes
 246.set=ASSET
 124.set=ASSET
-116.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+116.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 409.baseType=DIRECTORY
 259.baseType=DIRECTORY
 287.baseType=DIRECTORY
-26.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+26.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 415.baseType=DIRECTORY
 443.baseType=DIRECTORY
 422.set=ASSET
-59.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+59.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 377.set=ASSET
+<<<<<<< Updated upstream
 441.path=toolbox/vuforiaTrackableDefaultListener_setPhoneInformation.xml
+=======
+441.path=blocks/samples/ConceptSmoothServo.blk
+>>>>>>> Stashed changes
 300.set=ASSET
-210.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+210.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 223.set=ASSET
+<<<<<<< Updated upstream
 34.path=blocks/toolbox_util.js
 101.set=ASSET
 337.path=java/js/theme-chaos.js
 243.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+=======
+34.path=css/bootstrap-theme.css.map
+101.set=ASSET
+337.path=java/js/ui-ace.js
+243.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 318.baseType=DIRECTORY
 346.baseType=DIRECTORY
 196.baseType=DIRECTORY
 324.baseType=DIRECTORY
+<<<<<<< Updated upstream
 199.path=blockly/media/handdelete.cur
+=======
+199.path=css/bootstrap-theme.min.css
+>>>>>>> Stashed changes
 352.baseType=DIRECTORY
 380.baseType=DIRECTORY
-106.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+106.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 354.set=ASSET
+<<<<<<< Updated upstream
 139.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 49.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+139.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+49.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 277.set=ASSET
 200.set=ASSET
 155.set=ASSET
 227.baseType=DIRECTORY
+<<<<<<< Updated upstream
 114.path=blocks/images/ftcOpticalDistanceSensor.png
+=======
+114.path=lib/armeabi-v7a/libimage_utils.so
+>>>>>>> Stashed changes
 255.baseType=DIRECTORY
-370.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+370.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 9.set=ASSET
 411.baseType=DIRECTORY
-200.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+200.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 261.baseType=DIRECTORY
+<<<<<<< Updated upstream
 24.path=RobotConfigTaxonomy.xml
 233.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 453.set=ASSET
 404.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 57.path=java/templates/HardwarePushbot
+=======
+24.path=java/js/keybinding-vim.js
+233.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+453.set=ASSET
+404.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+57.path=dash/static/css/main.35621e47.chunk.css
+>>>>>>> Stashed changes
 80.set=ASSET
 331.set=ASSET
-266.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+266.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 88.baseType=DIRECTORY
-299.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+299.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 254.set=ASSET
-129.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+129.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 136.baseType=DIRECTORY
 164.baseType=DIRECTORY
 192.baseType=DIRECTORY
 132.set=ASSET
 320.baseType=DIRECTORY
+<<<<<<< Updated upstream
 241.path=java/templates/ConceptRevSPARKMini
 177.set=ASSET
 104.path=blocks/gamepad.js
@@ -955,10 +1714,31 @@
 289.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 231.path=java/js/antlr4/dfa/DFAState.js
 402.path=java/js/antlr4/atn/ATNDeserializationOptions.js
+=======
+241.path=classes3.dex
+177.set=ASSET
+104.path=dash/static/media/gamepad.f369910d.svg
+360.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+430.set=ASSET
+385.set=ASSET
+29.set=ASSET
+137.path=java/js/antlr4/Token.js
+393.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+308.path=java/readme.md
+47.path=lib/arm64-v8a/libVuforia.so
+231.set=ASSET
+256.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+427.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+201.baseType=DIRECTORY
+289.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+231.path=blocks/images/ftcOpMode.png
+402.path=toolbox/android_gyroscope.xml
+>>>>>>> Stashed changes
 28.baseType=DIRECTORY
 56.baseType=DIRECTORY
 362.set=ASSET
 62.baseType=DIRECTORY
+<<<<<<< Updated upstream
 264.path=java/onbotjava-classes.jar
 90.baseType=DIRECTORY
 104.baseType=DIRECTORY
@@ -977,16 +1757,42 @@
 160.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 254.path=RobotConfig.xsd
 425.path=java/js/antlr4/atn/ATNConfig.js
+=======
+264.path=toolbox/vuforiaLocalizerParameters_getProperty_CameraName.xml
+90.baseType=DIRECTORY
+104.baseType=DIRECTORY
+132.baseType=DIRECTORY
+297.path=FTC_2016-17.xml
+80.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+285.set=ASSET
+127.path=java/templates/SensorMRIrSeeker
+383.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+163.set=ASSET
+2.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+417.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+279.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+391.path=blocks/samples/ConceptVuMarkDetection.blk
+262.set=ASSET
+160.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+254.path=blocks/telemetry.js
+425.path=Skystone.dat
+>>>>>>> Stashed changes
 140.set=ASSET
-70.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+70.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 185.set=ASSET
+<<<<<<< Updated upstream
 287.path=blocks/dbg_log.js
 458.path=blocks/images/ftcDcMotor.png
+=======
+287.path=css/core.less
+458.path=fonts/glyphicons-halflings-regular.ttf
+>>>>>>> Stashed changes
 448.baseType=DIRECTORY
 30.baseType=DIRECTORY
-227.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-393.set=ASSET
+227.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+393.set=NATIVE_RESOURCE
 37.set=ASSET
+<<<<<<< Updated upstream
 381.path=dash/precache-manifest.02d242948ee1214a4dca9d4819224174.js
 0.path=java/js/worker-java.js
 379.baseType=DIRECTORY
@@ -997,12 +1803,25 @@
 183.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 277.path=blocks/images/ftcGyroSensor.png
 448.path=RoverRuckus.dat
+=======
+381.path=Skystone.xml
+0.path=java/js/antlr4/atn/LexerATNSimulator.js
+379.baseType=DIRECTORY
+150.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+415.path=lib/armeabi-v7a/libobject_tracking.so
+321.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+385.baseType=DIRECTORY
+183.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+277.path=java/templates/ConceptVuforiaSkyStoneNavigation
+448.path=blocks/dbg_log.js
+>>>>>>> Stashed changes
 370.set=ASSET
 14.set=ASSET
-93.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-217.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+93.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+217.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 293.set=ASSET
 288.baseType=DIRECTORY
+<<<<<<< Updated upstream
 191.path=java/templates/PushbotAutoDriveByGyro_Linear
 416.baseType=DIRECTORY
 444.baseType=DIRECTORY
@@ -1014,46 +1833,78 @@
 173.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 438.path=toolbox/vuforiaLocalizerParameters_setCameraDirection.xml
 344.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+191.path=blocks/clipboard_util.js
+416.baseType=DIRECTORY
+444.baseType=DIRECTORY
+450.baseType=DIRECTORY
+225.path=css/bootstrap-theme.css
+68.set=ASSET
+319.set=ASSET
+311.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+173.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+438.path=toolbox/vuforia.xml
+344.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 270.set=ASSET
 319.baseType=DIRECTORY
 347.baseType=DIRECTORY
-377.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+377.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 197.baseType=DIRECTORY
 325.baseType=DIRECTORY
-207.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+207.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 2.set=ASSET
 353.baseType=DIRECTORY
 193.set=ASSET
 381.baseType=DIRECTORY
 418.set=ASSET
+<<<<<<< Updated upstream
 181.path=java/js/java/JavaListener.js
 352.path=java/js/ftclangtools.js
 45.set=ASSET
 91.path=blocks/dc_motor.js
 215.path=java/templates/ConceptTensorFlowObjectDetection
+=======
+181.path=blocks/images/ftcLinearOpMode.png
+352.path=dash/static/media/expand_more.790f345a.svg
+45.set=ASSET
+91.path=java/js/antlr4/IntervalSet.js
+215.path=blocks/samples/ConceptDeviceInteraction.blk
+>>>>>>> Stashed changes
 228.baseType=DIRECTORY
 256.baseType=DIRECTORY
 219.set=ASSET
 412.baseType=DIRECTORY
+<<<<<<< Updated upstream
 31.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
 248.path=java/js/antlr4/CommonTokenStream.js
+=======
+31.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+248.path=toolbox/vuforiaSkyStone_initialize_withCameraDirection.xml
+>>>>>>> Stashed changes
 262.baseType=DIRECTORY
 290.baseType=DIRECTORY
-334.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+334.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 170.set=ASSET
-196.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-367.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+196.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+367.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 89.baseType=DIRECTORY
 99.set=ASSET
 22.set=ASSET
 95.baseType=DIRECTORY
 137.baseType=DIRECTORY
+<<<<<<< Updated upstream
 171.path=fonts/glyphicons-halflings-regular.eot
 342.path=fonts/glyphicons-halflings-regular.svg
+=======
+171.path=RelicVuMark.xml
+342.path=java/templates/PushbotTeleopTank_Iterative
+>>>>>>> Stashed changes
 165.baseType=DIRECTORY
 193.baseType=DIRECTORY
 321.baseType=DIRECTORY
 171.baseType=DIRECTORY
+<<<<<<< Updated upstream
 375.path=java/js/antlr4/atn/LexerAction.js
 205.path=dash/asset-manifest.json
 111.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -1063,12 +1914,24 @@
 409.path=java/js/mode-groovy.js
 449.set=ASSET
 54.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+375.path=blocks/rev_blinkin_led_driver.js
+205.path=blocks/android_gyroscope.js
+111.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+144.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+238.path=lib/x86/libimage_utils.so
+21.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+409.path=java/js/snippets/markdown.js
+449.set=NATIVE_RESOURCE
+54.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 76.set=ASSET
 327.set=ASSET
-357.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-87.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+357.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+87.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 202.baseType=DIRECTORY
 230.baseType=DIRECTORY
+<<<<<<< Updated upstream
 9.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 128.set=ASSET
 332.path=blocks/images/ftcTouchSensor.png
@@ -1078,24 +1941,46 @@
 365.path=lib/arm64-v8a/libtensorflowlite_jni.so
 271.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 101.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+9.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+128.set=NATIVE_RESOURCE
+332.path=blocks/digital_channel.js
+29.baseType=DIRECTORY
+194.path=js/split.min.js
+57.baseType=DIRECTORY
+365.path=blocks/optical_distance_sensor.js
+271.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+101.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 35.baseType=DIRECTORY
 426.set=ASSET
 63.baseType=DIRECTORY
 91.baseType=DIRECTORY
 1.baseType=DIRECTORY
+<<<<<<< Updated upstream
 398.path=ftcblockly/generators/ftcjava.js
+=======
+398.path=java/templates/ConceptTensorFlowObjectDetection
+>>>>>>> Stashed changes
 53.set=ASSET
 105.baseType=DIRECTORY
 304.set=ASSET
 133.baseType=DIRECTORY
+<<<<<<< Updated upstream
 228.path=blocks/gyro_sensor.js
 134.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 305.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+228.path=java/js/mode-groovy.js
+134.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+305.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 111.baseType=DIRECTORY
-44.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-167.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+44.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+167.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 227.set=ASSET
 105.set=ASSET
+<<<<<<< Updated upstream
 77.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 142.path=blocks/images/ftcI2cDevice.png
 403.set=ASSET
@@ -1111,60 +1996,110 @@
 204.set=ASSET
 7.path=java/css/main.less
 124.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+77.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+142.path=RobotConfigTaxonomy.xml
+403.set=ASSET
+358.set=ASSET
+52.path=js/bootstrap.js
+30.set=ASSET
+355.path=blocks/android_orientation.js
+261.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+432.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+85.path=css/blocks_common.less
+388.path=lib/armeabi-v7a/libc++_shared.so
+294.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+204.set=ASSET
+7.path=toolbox/misc.xml
+124.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 159.set=ASSET
-157.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-328.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+157.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+328.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 449.baseType=DIRECTORY
 31.baseType=DIRECTORY
-67.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-457.set=ASSET
+67.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+457.set=DEX
 84.set=ASSET
 335.set=ASSET
+<<<<<<< Updated upstream
 132.path=blocks/hardware_util.js
 303.path=blockly/media/delete.mp3
 42.path=blocks/samples/ConceptDeviceInteraction.blk
 165.path=java/js/worker-json.js
+=======
+132.path=blockly/media/click.ogg
+303.path=java/js/snippets/java.js
+42.path=fonts/fontawesome-webfont.svg
+165.path=blocks/bno055imu.js
+>>>>>>> Stashed changes
 258.set=ASSET
-251.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-422.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+251.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+422.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 136.set=ASSET
+<<<<<<< Updated upstream
 75.path=java/templates/SensorMRRangeSensor
+=======
+75.path=java/templates/ConceptSoundsOnBotJava
+>>>>>>> Stashed changes
 386.baseType=DIRECTORY
-284.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-455.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-15.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+284.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+455.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+15.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 434.set=ASSET
-147.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+147.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 389.set=ASSET
-318.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+318.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 61.set=ASSET
 312.set=ASSET
+<<<<<<< Updated upstream
 430.path=toolbox/vuforiaTrackableDefaultListener_setCameraLocationOnRobot.xml
 292.path=blocks/vars.js
 235.set=ASSET
 289.baseType=DIRECTORY
 122.path=java/templates/ConceptDIMAsIndicator
+=======
+430.path=java/android.jar
+292.path=blocks/led.js
+235.set=ASSET
+289.baseType=DIRECTORY
+122.path=blocks/images/ftcI2cDeviceReader.png
+>>>>>>> Stashed changes
 417.baseType=DIRECTORY
 113.set=NATIVE_RESOURCE
 445.baseType=DIRECTORY
 295.baseType=DIRECTORY
+<<<<<<< Updated upstream
 155.path=java/js/java/java.js
 451.baseType=DIRECTORY
 326.path=fonts/fontawesome-webfont.svg
 412.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 65.path=FtcSounds.html
 188.path=FtcBlocks.html
+=======
+155.path=Skystone.tflite
+451.baseType=DIRECTORY
+326.path=java/js/antlr4/PredictionContext.js
+412.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+65.path=help.html
+188.path=java/templates/ConceptNullOp
+>>>>>>> Stashed changes
 411.set=ASSET
-274.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-445.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+274.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+445.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 366.set=ASSET
+<<<<<<< Updated upstream
 98.path=js/npm.js
+=======
+98.path=dash/static/media/roboto-v18-latin-regular.68889c24.eot
+>>>>>>> Stashed changes
 289.set=ASSET
 198.baseType=DIRECTORY
 212.set=ASSET
 326.baseType=DIRECTORY
-38.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+38.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 354.baseType=DIRECTORY
+<<<<<<< Updated upstream
 167.set=ASSET
 420.path=lib/arm64-v8a/libimage_utils.so
 382.baseType=DIRECTORY
@@ -1173,19 +2108,36 @@
 453.path=blocks/distance_sensor.js
 13.path=java/js/antlr4/atn/PredictionMode.js
 316.path=blockly/media/quote1.png
+=======
+167.set=NATIVE_RESOURCE
+420.path=css/font-awesome.min.css
+382.baseType=DIRECTORY
+360.baseType=DIRECTORY
+282.path=java/js/mode-properties.js
+453.path=dash/static/media/chart.40188f26.svg
+13.path=blocks/images/ftcI2cDevice.png
+316.path=blockly/media/handopen.cur
+>>>>>>> Stashed changes
 92.set=ASSET
-222.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+222.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 343.set=ASSET
+<<<<<<< Updated upstream
 178.path=manage.html
 229.baseType=DIRECTORY
 349.path=blocks/images.css
+=======
+178.path=blocks/samples/ConceptVuforiaNavSkystoneWebcam.blk
+229.baseType=DIRECTORY
+349.path=java/js/jquery.position.js
+>>>>>>> Stashed changes
 257.baseType=DIRECTORY
-435.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+435.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 235.baseType=DIRECTORY
 266.set=ASSET
 263.baseType=DIRECTORY
 291.baseType=DIRECTORY
 144.set=ASSET
+<<<<<<< Updated upstream
 118.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 189.set=NATIVE_RESOURCE
 28.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -1194,13 +2146,24 @@
 397.set=ASSET
 96.baseType=DIRECTORY
 443.path=blockly/msg/messages.js
+=======
+118.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+189.set=ASSET
+28.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+410.path=blockly/media/disconnect.wav
+442.set=ASSET
+397.set=ASSET
+96.baseType=DIRECTORY
+443.path=lib/arm64-v8a/libimage_utils.so
+>>>>>>> Stashed changes
 320.set=ASSET
 138.baseType=DIRECTORY
 166.baseType=DIRECTORY
 322.baseType=DIRECTORY
 172.baseType=DIRECTORY
-212.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+212.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 300.baseType=DIRECTORY
+<<<<<<< Updated upstream
 243.set=DEX
 36.path=blocks/navigation.js
 121.set=ASSET
@@ -1210,29 +2173,54 @@
 374.set=ASSET
 220.path=java/css/tether.min.css
 18.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+243.set=ASSET
+36.path=connection.html
+121.set=ASSET
+339.path=fonts/fontawesome-webfont.woff2
+245.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+108.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+374.set=ASSET
+220.path=lib/arm64-v8a/libRobotCore.so
+18.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 18.set=ASSET
 203.baseType=DIRECTORY
 231.baseType=DIRECTORY
 297.set=ASSET
+<<<<<<< Updated upstream
 220.set=ASSET
 116.path=java/js/ext-whitespace.js
 372.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 202.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 58.baseType=DIRECTORY
 26.path=blocks/images/ftcUltrasonicSensor.png
+=======
+220.set=NATIVE_RESOURCE
+116.path=blocks/images/ftcDeviceInterfaceModule.png
+372.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+202.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+58.baseType=DIRECTORY
+26.path=ftcblockly/generators/ftcjava/variables.js
+>>>>>>> Stashed changes
 36.baseType=DIRECTORY
 64.baseType=DIRECTORY
 92.baseType=DIRECTORY
-235.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+235.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 2.baseType=DIRECTORY
-406.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+406.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 106.baseType=DIRECTORY
+<<<<<<< Updated upstream
 59.path=java/js/theme-chrome.js
+=======
+59.path=blocks/servo_controller.js
+>>>>>>> Stashed changes
 351.set=ASSET
 112.baseType=DIRECTORY
-268.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+268.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 140.baseType=DIRECTORY
 274.set=ASSET
+<<<<<<< Updated upstream
 210.path=blocks/images/ftcIrSeekerSensor.png
 152.set=ASSET
 243.path=classes3.dex
@@ -1261,9 +2249,40 @@
 82.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 129.path=css/blocks_offline.css
 385.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+210.path=blocks/vuforia_localizer.js
+152.set=ASSET
+243.path=blocks/vuforia_localizer_parameters.js
+6.set=ASSET
+197.set=ASSET
+106.path=java/js/antlr4/atn/ATNState.js
+362.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+450.set=ASSET
+139.path=blocks/cr_servo.js
+49.set=ASSET
+395.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+49.path=java/js/toe.min.js
+251.set=ASSET
+258.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+429.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+370.path=blocks/samples/ConceptTensorFlowObjectDetection.blk
+32.baseType=DIRECTORY
+200.path=ftcblockly/generators/ftcjava/procedures.js
+174.set=ASSET
+233.path=java/templates/SensorMROpticalDistance
+404.path=blocks/samples/ConceptTextToSpeech.blk
+382.set=ASSET
+26.set=ASSET
+266.path=java/templates/ConceptVuforiaNavigationWebcam
+299.path=blockly/media/handdelete.cur
+82.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+129.path=java/js/worker-java.js
+385.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 359.baseType=DIRECTORY
-4.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+4.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 387.baseType=DIRECTORY
+<<<<<<< Updated upstream
 419.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 360.path=java/js/mode-json.js
 393.path=FTC_2016-17.dat
@@ -1279,11 +2298,29 @@
 452.baseType=DIRECTORY
 289.path=blocks/samples/ConceptSmoothServo.blk
 72.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+419.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+360.path=java/js/antlr4/error/DiagnosticErrorListener.js
+393.path=lib/x86/libobject_tracking.so
+300.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+282.set=ASSET
+418.baseType=DIRECTORY
+446.baseType=DIRECTORY
+256.path=FTC_2016-17.dat
+162.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+427.path=java/js/worker-base.js
+296.baseType=DIRECTORY
+160.set=ASSET
+452.baseType=DIRECTORY
+289.path=java/templates/PushbotAutoDriveToLine_Linear
+72.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 57.set=ASSET
 308.set=ASSET
 199.baseType=DIRECTORY
 327.baseType=DIRECTORY
 355.baseType=DIRECTORY
+<<<<<<< Updated upstream
 80.path=css/core.less
 383.baseType=DIRECTORY
 383.path=toolbox/android_accelerometer.xml
@@ -1297,60 +2334,102 @@
 185.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 279.path=lib/armeabi-v7a/libimage_utils.so
 62.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+80.path=FtcBlocksProjects.html
+383.baseType=DIRECTORY
+383.path=frame.html
+361.baseType=DIRECTORY
+2.path=css/java/onbotjava.less
+109.set=ASSET
+182.set=ASSET
+152.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+417.path=java/js/perfect-scrollbar.jquery.js
+323.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+185.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+279.path=java/templates/ConceptDIMAsIndicator
+62.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 407.set=ASSET
 390.set=ASSET
 34.set=ASSET
 258.baseType=DIRECTORY
-95.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+95.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 236.baseType=DIRECTORY
 264.baseType=DIRECTORY
 292.baseType=DIRECTORY
-219.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+219.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 420.baseType=DIRECTORY
 208.set=ASSET
+<<<<<<< Updated upstream
 160.path=java/templates/SampleRevBlinkinLedDriver
 70.path=blocks/samples/ConceptVuforiaNavSkystoneWebcam.blk
 450.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 97.baseType=DIRECTORY
 227.path=java/js/antlr4/error/Errors.js
+=======
+160.path=java/js/antlr4/ParserRuleContext.js
+70.path=dash/static/media/roboto-v18-latin-regular.8681f434.svg
+450.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+97.baseType=DIRECTORY
+227.path=toolbox/vuforiaLocalizerParameters_getProperty_CameraDirection.xml
+>>>>>>> Stashed changes
 139.baseType=DIRECTORY
-10.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+10.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 167.baseType=DIRECTORY
 88.set=ASSET
 339.set=ASSET
-313.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+313.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 323.baseType=DIRECTORY
 11.set=ASSET
 173.baseType=DIRECTORY
 301.baseType=DIRECTORY
-175.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-346.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+175.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+346.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 290.set=ASSET
+<<<<<<< Updated upstream
 379.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 209.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 150.path=blockly/media/disconnect.ogg
 321.path=java/android.jar
 438.set=ASSET
 183.path=blocks/images/ftcDeviceInterfaceModule.png
+=======
+379.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+209.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+150.path=blocks/images/ftcColorSensor.png
+321.path=blocks/sound_util.js
+438.set=ASSET
+183.path=toolbox/vuforiaLocalizerParameters_addWebcamCalibrationFile.xml
+>>>>>>> Stashed changes
 204.baseType=DIRECTORY
 232.baseType=DIRECTORY
 65.set=ASSET
-440.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+440.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 316.set=ASSET
+<<<<<<< Updated upstream
 93.path=java/templates/ConceptVuMarkIdentificationWebcam
 217.path=blocks/vuforia.js
 239.set=ASSET
 33.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 117.set=ASSET
 336.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+93.path=toolbox/utilities.xml
+217.path=dash/static/media/expand_less.f146d110.svg
+239.set=ASSET
+33.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+117.set=ASSET
+336.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 37.baseType=DIRECTORY
 190.set=ASSET
 65.baseType=DIRECTORY
 93.baseType=DIRECTORY
 3.baseType=DIRECTORY
 107.baseType=DIRECTORY
-198.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+198.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 71.baseType=DIRECTORY
+<<<<<<< Updated upstream
 369.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 113.baseType=DIRECTORY
 141.baseType=DIRECTORY
@@ -1366,12 +2445,30 @@
 146.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 23.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 56.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+=======
+369.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+113.baseType=DIRECTORY
+141.baseType=DIRECTORY
+415.set=NATIVE_RESOURCE
+311.path=fonts/glyphicons-halflings-regular.eot
+42.set=ASSET
+173.path=blocks/images/ftcOpticalDistanceSensor.png
+344.path=java/css/tether.css
+216.set=ASSET
+377.path=blocks/elapsed_time2.js
+113.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+207.path=RoverRuckus.xml
+146.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+23.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+56.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 96.set=ASSET
 347.set=ASSET
-359.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-89.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+359.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+89.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 33.baseType=DIRECTORY
 148.set=ASSET
+<<<<<<< Updated upstream
 31.path=lib/arm64-v8a/libRobotCore.so
 11.baseType=DIRECTORY
 334.path=blocks/touch_sensor.js
@@ -1379,24 +2476,42 @@
 196.path=java/js/snippets/markdown.js
 367.path=css/java/onbotjava.less
 103.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+31.path=java/js/antlr4/atn/LexerAction.js
+11.baseType=DIRECTORY
+334.path=java/js/antlr4/polyfills/codepointat.js
+240.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+196.path=blocks/FtcBlocksProjects_common.js
+367.path=blocks/images/ftcTouchSensor.png
+103.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 446.set=ASSET
 73.set=ASSET
 324.set=ASSET
-136.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-307.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-169.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-46.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+136.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+307.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+169.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+46.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 388.baseType=DIRECTORY
 247.set=ASSET
 125.set=ASSET
+<<<<<<< Updated upstream
 79.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 111.path=js/bootstrap.js
 144.path=blocks/servo_controller.js
 21.path=blocks/images/ftcDigitalChannel.png
 230.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+79.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+111.path=blocks/compass_sensor.js
+144.path=blocks/samples/RevBlinkinLed.blk
+21.path=js/es5-shim.js
+230.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 423.set=ASSET
-401.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+401.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 378.set=ASSET
+<<<<<<< Updated upstream
 54.path=blocks/tfod.js
 50.set=ASSET
 301.set=NATIVE_RESOURCE
@@ -1406,11 +2521,23 @@
 419.baseType=DIRECTORY
 447.baseType=DIRECTORY
 87.path=blocks/linear_op_mode.js
+=======
+54.path=java/templates/ConceptI2cAddressChange
+50.set=ASSET
+301.set=ASSET
+357.path=blocks/images/ftcDigitalChannel.png
+263.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+434.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+419.baseType=DIRECTORY
+447.baseType=DIRECTORY
+87.path=blocks/pidf_coefficients.js
+>>>>>>> Stashed changes
 297.baseType=DIRECTORY
 425.baseType=DIRECTORY
-296.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+296.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 453.baseType=DIRECTORY
 224.set=ASSET
+<<<<<<< Updated upstream
 9.path=java/js/antlr4/package.json
 126.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 102.set=ASSET
@@ -1437,13 +2564,42 @@
 77.path=css/bootstrap.min.css
 286.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 457.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+9.path=java/js/antlr4/atn/ATNConfigSet.js
+126.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+102.set=ASSET
+159.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+271.path=blocks/android_text_to_speech.js
+69.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+101.path=blocks/images/ftcCompassSensor.png
+400.set=ASSET
+355.set=ASSET
+328.baseType=DIRECTORY
+134.path=java/js/antlr4/dfa/DFA.js
+390.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+356.baseType=DIRECTORY
+305.path=dash/static/media/refresh.28eb3190.svg
+362.baseType=DIRECTORY
+390.baseType=DIRECTORY
+167.path=lib/x86_64/libobject_tracking.so
+278.set=ASSET
+44.path=blocks/tfod_sky_stone.js
+201.set=ASSET
+253.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+424.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+156.set=ASSET
+77.path=js/bootstrap.min.js
+286.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+457.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+>>>>>>> Stashed changes
 454.set=ASSET
-149.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+149.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 237.baseType=DIRECTORY
 81.set=ASSET
 332.set=ASSET
 265.baseType=DIRECTORY
 293.baseType=DIRECTORY
+<<<<<<< Updated upstream
 261.path=blocks/samples/ConceptTensorFlowObjectDetection.blk
 432.path=FtcBlocksProjects.html
 421.baseType=DIRECTORY
@@ -1456,19 +2612,38 @@
 178.set=ASSET
 157.path=blocks/telemetry.js
 328.path=css/bootstrap-theme.css.map
+=======
+261.path=dash/asset-manifest.json
+432.path=java/css/angular-resizable.css
+421.baseType=DIRECTORY
+271.baseType=DIRECTORY
+294.path=css/connection.less
+255.set=ASSET
+124.path=blockly/media/delete.ogg
+380.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+133.set=ASSET
+178.set=ASSET
+157.path=java/templates/ConceptCompassCalibration
+328.path=FtcSounds.html
+>>>>>>> Stashed changes
 98.baseType=DIRECTORY
-414.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+414.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 168.baseType=DIRECTORY
+<<<<<<< Updated upstream
 67.path=java/js/antlr4/atn/ParserATNSimulator.js
+=======
+67.path=java/templates/SensorMRGyro
+>>>>>>> Stashed changes
 431.set=ASSET
 146.baseType=DIRECTORY
-276.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+276.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 174.baseType=DIRECTORY
-447.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+447.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 386.set=ASSET
 302.baseType=DIRECTORY
 330.baseType=DIRECTORY
 232.set=ASSET
+<<<<<<< Updated upstream
 251.path=toolbox/rev_blinkin_led_driver.xml
 422.path=java/js/antlr4/CharStreams.js
 110.set=ASSET
@@ -1481,8 +2656,22 @@
 147.path=CzechWolf
 318.path=css/manage.less
 224.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+251.path=blocks/temperature.js
+422.path=dash/static/media/add.74fc797d.svg
+110.set=ASSET
+284.path=classes2.dex
+190.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+455.path=java/js/antlr4/error/ErrorListener.js
+205.baseType=DIRECTORY
+233.baseType=DIRECTORY
+15.path=blocks/mr_i2c_compass_sensor.js
+147.path=blocks/samples/SensorREVColorDistance.blk
+318.path=blocks/misc.js
+224.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 363.set=ASSET
-437.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+437.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 286.set=ASSET
 38.baseType=DIRECTORY
 66.baseType=DIRECTORY
@@ -1493,6 +2682,7 @@
 72.baseType=DIRECTORY
 114.baseType=DIRECTORY
 142.baseType=DIRECTORY
+<<<<<<< Updated upstream
 412.path=blocks/samples/default.blk
 170.baseType=DIRECTORY
 180.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -1504,20 +2694,43 @@
 214.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 263.set=ASSET
 38.path=blocks/android_accelerometer.js
+=======
+412.path=java/js/require.js
+170.baseType=DIRECTORY
+180.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+274.path=RobotConfigTaxonomy.xsd
+445.path=java/js/antlr4/atn/Transition.js
+351.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+340.set=ASSET
+90.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+214.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+263.set=ASSET
+38.path=blockly/media/click.wav
+>>>>>>> Stashed changes
 141.set=ASSET
-247.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+247.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 186.set=ASSET
 394.set=ASSET
+<<<<<<< Updated upstream
 222.path=java/templates/SensorMRGyro
 38.set=ASSET
 34.baseType=DIRECTORY
 170.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 435.path=toolbox/utilities.xml
 341.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+222.path=lib/arm64-v8a/libc++_shared.so
+38.set=ASSET
+34.baseType=DIRECTORY
+170.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+435.path=dash/robots.txt
+341.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 0.baseType=DIRECTORY
 12.baseType=DIRECTORY
 240.set=NATIVE_RESOURCE
 40.baseType=DIRECTORY
+<<<<<<< Updated upstream
 118.path=blocks/samples/ConceptVuMarkDetection.blk
 374.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 110.baseType=DIRECTORY
@@ -1525,10 +2738,20 @@
 28.path=blocks/images/ftcServoController.png
 237.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 408.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+118.path=StonesAndChips.xml
+374.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+110.baseType=DIRECTORY
+204.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+28.path=blocks/images/ftcGamepad.png
+237.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+408.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 371.set=ASSET
 15.set=ASSET
 389.baseType=DIRECTORY
 294.set=ASSET
+<<<<<<< Updated upstream
 212.path=blocks/images/ftcVoltageSensor.png
 245.path=blockly/media/sprites.png
 331.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -1539,10 +2762,23 @@
 18.path=css/bootstrap.min.css.map
 69.set=ASSET
 397.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+212.path=css/bootstrap-theme.min.css.map
+245.path=java/js/antlr4/atn/ATNDeserializationOptions.js
+331.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+61.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+193.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+108.path=java/js/antlr4/Utils.js
+364.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+18.path=java/js/antlr4/atn/ATN.js
+69.set=NATIVE_RESOURCE
+397.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 298.baseType=DIRECTORY
 426.baseType=DIRECTORY
 454.baseType=DIRECTORY
 271.set=ASSET
+<<<<<<< Updated upstream
 372.path=css/frame.less
 3.set=ASSET
 202.path=java/templates/ConceptSoundsASJava
@@ -1550,25 +2786,44 @@
 141.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 235.path=StonesAndChips.xml
 406.path=blocks/android_gyroscope.js
+=======
+372.path=java/js/java/JavaLexer.js
+3.set=ASSET
+202.path=fonts/fontawesome-webfont.ttf
+194.set=ASSET
+141.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+235.path=blocks/lynx_i2c_color_range_sensor.js
+406.path=dash/static/media/remove.db082a01.svg
+>>>>>>> Stashed changes
 419.set=ASSET
 329.baseType=DIRECTORY
 357.baseType=DIRECTORY
 46.set=ASSET
+<<<<<<< Updated upstream
 268.path=fonts/fontawesome-webfont.ttf
 51.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+268.path=js/URI.min.js
+51.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 363.baseType=DIRECTORY
 391.baseType=DIRECTORY
-354.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-84.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-387.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-6.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+354.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+84.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+387.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+6.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 171.set=ASSET
+<<<<<<< Updated upstream
 362.path=java/js/antlr4/atn/LexerATNSimulator.js
+=======
+362.path=java/css/jquery.contextmenu.css
+>>>>>>> Stashed changes
 238.baseType=DIRECTORY
 266.baseType=DIRECTORY
 294.baseType=DIRECTORY
 422.baseType=DIRECTORY
 272.baseType=DIRECTORY
+<<<<<<< Updated upstream
 395.path=fonts/glyphicons-halflings-regular.woff2
 23.set=ASSET
 131.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -1577,8 +2832,18 @@
 164.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 258.path=java/js/ext-spellcheck.js
 429.path=blockly/media/handopen.cur
+=======
+395.path=blocks/color.js
+23.set=ASSET
+131.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+302.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+41.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+164.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+258.path=java/js/java/java.js
+429.path=dash/index.html
+>>>>>>> Stashed changes
 99.baseType=DIRECTORY
-74.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+74.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 169.baseType=DIRECTORY
 147.baseType=DIRECTORY
 175.baseType=DIRECTORY
@@ -1587,36 +2852,59 @@ count=459
 331.baseType=DIRECTORY
 77.set=ASSET
 328.set=ASSET
+<<<<<<< Updated upstream
 82.path=css/blocks_common.less
 385.path=fonts/glyphicons-halflings-regular.woff
 291.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 4.path=js/less.min.js
 121.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+82.path=java/templates/ConceptVuMarkIdentificationWebcam
+385.path=java/js/tether.min.js
+291.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+4.path=java/js/theme-monokai.js
+121.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 129.set=ASSET
 206.baseType=DIRECTORY
-154.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+154.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 234.baseType=DIRECTORY
+<<<<<<< Updated upstream
 419.path=dash/static/media/roboto-v18-latin-regular.5d4aeb4e.woff2
 325.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+419.path=java/js/snippets/text.js
+325.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 212.baseType=DIRECTORY
 240.baseType=DIRECTORY
-64.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-187.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+64.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+187.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 427.set=ASSET
 54.set=ASSET
 305.set=ASSET
+<<<<<<< Updated upstream
 97.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 300.path=blockly/media/delete.wav
+=======
+97.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+300.path=Buildings.txt
+>>>>>>> Stashed changes
 39.baseType=DIRECTORY
 67.baseType=DIRECTORY
 228.set=ASSET
 5.baseType=DIRECTORY
+<<<<<<< Updated upstream
 162.path=java/js/theme-github.js
+=======
+162.path=java/js/ext-whitespace.js
+>>>>>>> Stashed changes
 109.baseType=DIRECTORY
 73.baseType=DIRECTORY
 106.set=ASSET
 115.baseType=DIRECTORY
 143.baseType=DIRECTORY
+<<<<<<< Updated upstream
 72.path=blockly/media/handclosed.cur
 281.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 452.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
@@ -1633,9 +2921,28 @@ count=459
 458.set=ASSET
 62.path=java/js/antlr4/PredictionContext.js
 185.path=dash/static/js/runtime~main.4e412c0e.js.map
+=======
+72.path=blocks/images/ftcCRServo.png
+281.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+452.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+12.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+404.set=ASSET
+359.set=ASSET
+315.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+31.set=ASSET
+177.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+348.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+205.set=ASSET
+152.path=css/bootstrap.css
+323.path=css/blocks_common.css
+458.set=ASSET
+62.path=ftcblockly/generators/ftcjava/math.js
+185.path=java/js/antlr4/BufferedTokenStream.js
+>>>>>>> Stashed changes
 85.set=ASSET
-442.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+442.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 336.set=ASSET
+<<<<<<< Updated upstream
 95.path=fonts/fontawesome-webfont.woff
 13.baseType=DIRECTORY
 219.path=java/templates/ConceptVuforiaNavigationWebcam
@@ -1673,29 +2980,77 @@ count=459
 242.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 198.path=dash/static/media/remove.db082a01.svg
 369.path=java/templates/SensorBNO055IMU
+=======
+95.path=java/js/theme-solarized-dark.js
+13.baseType=DIRECTORY
+219.path=java/js/worker-javascript.js
+41.baseType=DIRECTORY
+259.set=ASSET
+35.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+137.set=ASSET
+338.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+450.path=java/editor.html
+435.set=ASSET
+10.path=blocks/matrix_f.js
+313.path=blocks/navigation.js
+62.set=ASSET
+313.set=ASSET
+396.baseType=DIRECTORY
+175.path=java/css/perfect-scrollbar.css
+346.path=ftcblockly/generators/ftcjava/lists.js
+236.set=ASSET
+379.path=java/templates/PushbotAutoDriveByEncoder_Linear
+114.set=NATIVE_RESOURCE
+115.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+209.path=java/js/antlr4/atn/LexerActionExecutor.js
+25.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+412.set=ASSET
+299.baseType=DIRECTORY
+58.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+427.baseType=DIRECTORY
+367.set=ASSET
+455.baseType=DIRECTORY
+440.path=manage.html
+213.set=ASSET
+168.set=ASSET
+33.path=css/blocks_offline.css
+336.path=java/templates/BasicOpMode_Iterative
+242.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+198.path=java/templates/ConceptSoundsSKYSTONE
+369.path=java/templates/ConceptVuMarkIdentification
+>>>>>>> Stashed changes
 358.baseType=DIRECTORY
-105.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+105.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 336.baseType=DIRECTORY
 364.baseType=DIRECTORY
 392.baseType=DIRECTORY
 93.set=ASSET
 344.set=ASSET
-138.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-48.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+138.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+48.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 267.set=ASSET
 145.set=ASSET
+<<<<<<< Updated upstream
 113.path=lib/armeabi-v7a/libc++_shared.so
 239.baseType=DIRECTORY
 267.baseType=DIRECTORY
 23.path=dash/static/media/roboto-v18-latin-regular.68889c24.eot
 146.path=toolbox/android_orientation.xml
+=======
+113.path=java/js/antlr4/CommonTokenFactory.js
+239.baseType=DIRECTORY
+267.baseType=DIRECTORY
+23.path=dash/static/js/main.ba070fec.chunk.js
+146.path=blocks/images/ftcLED.png
+>>>>>>> Stashed changes
 423.baseType=DIRECTORY
-232.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+232.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 273.baseType=DIRECTORY
-443.set=ASSET
-403.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+443.set=NATIVE_RESOURCE
+403.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 401.baseType=DIRECTORY
 398.set=ASSET
+<<<<<<< Updated upstream
 56.path=classes.dex
 70.set=ASSET
 321.set=ASSET
@@ -1703,15 +3058,29 @@ count=459
 265.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 89.path=java/js/antlr4/BufferedTokenStream.js
 298.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+56.path=blocks/elapsed_time.js
+70.set=ASSET
+321.set=ASSET
+359.path=blocks/velocity.js
+265.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+89.path=blockly/media/handclosed.cur
+298.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 244.set=ASSET
-128.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+128.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 122.set=ASSET
+<<<<<<< Updated upstream
 240.path=lib/x86/libtensorflowlite_jni.so
+=======
+240.path=blocks/hardware_util.js
+>>>>>>> Stashed changes
 148.baseType=DIRECTORY
 176.baseType=DIRECTORY
 304.baseType=DIRECTORY
 332.baseType=DIRECTORY
 182.baseType=DIRECTORY
+<<<<<<< Updated upstream
 103.path=css/font-awesome.min.css
 420.set=NATIVE_RESOURCE
 375.set=ASSET
@@ -1722,10 +3091,23 @@ count=459
 298.set=ASSET
 169.path=blocks/samples/ConceptVuforiaNavSkystone.blk
 46.path=blocks/android_sound_pool.js
+=======
+103.path=java/js/antlr4/atn/ATNType.js
+420.set=ASSET
+375.set=ASSET
+19.set=ASSET
+136.path=blocks/images/ftcUltrasonicSensor.png
+392.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+307.path=fonts/fontawesome-webfont.woff
+298.set=ASSET
+169.path=blocks/images/ftcDcMotor.png
+46.path=TextureTeapotBrass.png
+>>>>>>> Stashed changes
 221.set=ASSET
-255.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-426.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+255.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+426.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 207.baseType=DIRECTORY
+<<<<<<< Updated upstream
 79.path=js/websocket-iframe.js
 288.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 213.baseType=DIRECTORY
@@ -1741,14 +3123,32 @@ count=459
 296.path=blockly/media/disconnect.mp3
 275.set=ASSET
 126.path=java/templates/SensorKLNavxMicro
+=======
+79.path=blocks/servo.js
+288.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+213.baseType=DIRECTORY
+241.baseType=DIRECTORY
+230.path=toolbox/android_accelerometer.xml
+401.path=blocks/vuforia.js
+352.set=ASSET
+263.path=fonts/SourceCodeProExt.woff2
+434.path=toolbox/vuforiaLocalizerParameters_setCameraName.xml
+68.baseType=DIRECTORY
+6.baseType=DIRECTORY
+74.baseType=DIRECTORY
+296.path=dash/static/js/2.909f7f0f.chunk.js.map
+275.set=ASSET
+126.path=blocks/angular_velocity.js
+>>>>>>> Stashed changes
 116.baseType=DIRECTORY
-382.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+382.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 144.baseType=DIRECTORY
 153.set=ASSET
-1.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+1.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 7.set=ASSET
 150.baseType=DIRECTORY
 198.set=ASSET
+<<<<<<< Updated upstream
 159.path=blocks/quaternion.js
 416.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 69.path=css/bootstrap-theme.css
@@ -1765,11 +3165,30 @@ count=459
 457.path=ftcblockly/generators/ftcjava/math.js
 149.path=java/js/mode-text.js
 226.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/mergeJniLibs/debug/0
+=======
+159.path=blocks/samples/ConceptTensorFlowObjectDetectionWebcam.blk
+416.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+69.path=lib/x86_64/libtensorflowlite_jni.so
+451.set=ASSET
+278.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+449.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
+390.path=java/js/antlr4/atn/ATNDeserializer.js
+252.set=ASSET
+253.path=RoverRuckus.tflite
+424.path=lib/x86_64/libimage_utils.so
+130.set=ASSET
+175.set=ASSET
+286.path=blocks/analog_output.js
+457.path=classes.dex
+149.path=blocks/analog_input.js
+226.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 383.set=ASSET
 14.baseType=DIRECTORY
 42.baseType=DIRECTORY
 27.set=ASSET
 70.baseType=DIRECTORY
+<<<<<<< Updated upstream
 439.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 380.path=blocks/digital_channel.js
 414.path=java/js/antlr4/InputStream.js
@@ -1796,15 +3215,44 @@ count=459
 172.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 437.path=blocks/analog_input.js
 343.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+439.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+380.path=lib/armeabi-v7a/libtensorflowlite_jni.so
+414.path=js/split.min.js.map
+320.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+182.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+276.path=blocks/images/ftcVoltageSensor.png
+447.path=java/js/antlr4/README.md
+353.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+397.baseType=DIRECTORY
+360.set=ASSET
+92.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+216.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+283.set=ASSET
+161.set=ASSET
+249.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+190.path=blocks/voltage_sensor.js
+428.baseType=DIRECTORY
+10.baseType=DIRECTORY
+456.baseType=DIRECTORY
+224.path=java/templates/PushbotTeleopPOV_Linear
+58.set=ASSET
+310.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+309.set=ASSET
+172.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+437.path=blocks/vuforia_sky_stone.js
+343.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 260.set=ASSET
-376.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
-206.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+376.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+206.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 183.set=ASSET
 337.baseType=DIRECTORY
 365.baseType=DIRECTORY
-239.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+239.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 393.baseType=DIRECTORY
 408.set=ASSET
+<<<<<<< Updated upstream
 180.path=java/js/antlr4/atn/Transition.js
 391.set=NATIVE_RESOURCE
 351.path=RelicVuMark.xml
@@ -1814,17 +3262,29 @@ count=459
 209.set=ASSET
 30.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 247.path=blocks/optical_distance_sensor.js
+=======
+180.path=java/js/antlr4/atn/ParserATNSimulator.js
+391.set=ASSET
+351.path=java/templates/ConceptTensorFlowObjectDetectionWebcam
+35.set=ASSET
+90.path=dash/static/js/2.909f7f0f.chunk.js
+214.path=fonts/FontAwesome.otf
+209.set=ASSET
+30.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+247.path=blocks/images/ftcPwmOutput.png
+>>>>>>> Stashed changes
 268.baseType=DIRECTORY
-333.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+333.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 424.baseType=DIRECTORY
 274.baseType=DIRECTORY
 402.baseType=DIRECTORY
-195.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+195.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/stripDebugSymbol/debug/0
 430.baseType=DIRECTORY
-366.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+366.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 89.set=ASSET
-399.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+399.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 12.set=ASSET
+<<<<<<< Updated upstream
 229.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
 170.path=java/js/snippets/text.js
 341.path=blocks/temperature.js
@@ -1836,4 +3296,17 @@ count=459
 333.baseType=DIRECTORY
 204.path=js/util.js
 110.base=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+=======
+229.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+170.path=java/js/jquery.contextmenu.js
+341.path=toolbox/tensorFlowObjectDetection.xml
+291.set=ASSET
+149.baseType=DIRECTORY
+177.baseType=DIRECTORY
+374.path=java/js/antlr4/CommonTokenStream.js
+305.baseType=DIRECTORY
+333.baseType=DIRECTORY
+204.path=ftcblockly/generators/ftcjava/loops.js
+110.base=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_assets/debug/out
+>>>>>>> Stashed changes
 183.baseType=DIRECTORY

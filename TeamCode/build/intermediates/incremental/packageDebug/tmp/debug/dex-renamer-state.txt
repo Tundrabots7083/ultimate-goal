@@ -1,10 +1,20 @@
+<<<<<<< Updated upstream
 #Thu Oct 15 18:58:58 EDT 2020
+=======
+#Mon Oct 12 20:06:05 EDT 2020
+>>>>>>> Stashed changes
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+<<<<<<< Updated upstream
 base.2=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
 base.1=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
 base.0=/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+=======
+base.2=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+base.1=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+base.0=/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+>>>>>>> Stashed changes

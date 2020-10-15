@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/xavier/.gradle/caches/transforms-2/files-2.1/bed2e83a4947a048ff362794c061d8e5/res/values-v11/values-v11.xml",
+                    "source": "/home/carrick/.gradle/caches/transforms-2/files-2.1/c32fdb231d480bfdb1edd14adfc1a2e8/res/values-v11/values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

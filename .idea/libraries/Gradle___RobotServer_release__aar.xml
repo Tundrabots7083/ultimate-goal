@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: :RobotServer-release:@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937cb1959cc86e6053cfc91592efc93a/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937cb1959cc86e6053cfc91592efc93a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937cb1959cc86e6053cfc91592efc93a/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937cb1959cc86e6053cfc91592efc93a/jars/libs/Java-WebSocket-1.4.1-20190423.174615-6.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/374c08a97d73b7cb11f760bc2ad9790a/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/374c08a97d73b7cb11f760bc2ad9790a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/374c08a97d73b7cb11f760bc2ad9790a/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/374c08a97d73b7cb11f760bc2ad9790a/jars/libs/Java-WebSocket-1.4.1-20190423.174615-6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

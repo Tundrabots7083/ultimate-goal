@@ -1,4 +1,4 @@
-# Referenced at /Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_manifests/debug/AndroidManifest.xml:86
+# Referenced at /home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_manifests/debug/AndroidManifest.xml:86
 -keep class android.support.v4.app.CoreComponentFactory { <init>(); }
-# Referenced at /Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/merged_manifests/debug/AndroidManifest.xml:86
+# Referenced at /home/carrick/RoadRunnerGood/TeamCode/build/intermediates/merged_manifests/debug/AndroidManifest.xml:86
 -keep class org.firstinspires.ftc.robotcore.internal.system.RobotApplication { <init>(); }

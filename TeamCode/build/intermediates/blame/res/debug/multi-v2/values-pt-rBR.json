@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/xavier/Documents/GitHub/RoadRunnerGood/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/carrick/RoadRunnerGood/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "/Users/xavier/.gradle/caches/transforms-2/files-2.1/b7b10003ed372c25a28e05babfad44c6/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/home/carrick/.gradle/caches/transforms-2/files-2.1/017cc34aa548f6199224a35a0a737177/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
